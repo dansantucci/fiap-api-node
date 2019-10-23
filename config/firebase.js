@@ -1,9 +1,10 @@
 module.exports = {
-    apiKey: "AIzaSyBh0Ad2ISRIE1_vMBStvv0PsBimgmiHd7U",
-    authDomain: "mob-node.firebaseapp.com",
-    databaseURL: "https://mob-node.firebaseio.com",
-    projectId: "mob-node",
-    storageBucket: "mob-node.appspot.com",
-    messagingSenderId: "983499975656",
-    appId: "1:983499975656:web:a23a609e139e65c7a7d25d"
-};
+    apiKey: "AIzaSyBNeIFlguyu6b1tQ1ES0UKnypGdMCOIO4g",
+    authDomain: "mob18-node-api.firebaseapp.com",
+    databaseURL: "https://mob18-node-api.firebaseio.com",
+    projectId: "mob18-node-api",
+    storageBucket: "mob18-node-api.appspot.com",
+    messagingSenderId: "52973302652",
+    appId: "1:52973302652:web:a9894b81d40b28f9d16af9",
+    measurementId: "G-1865Z9WX1H"
+  }
